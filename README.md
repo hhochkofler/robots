@@ -1,3 +1,4 @@
+<<<<<<< ITforever
 # Heinrich Hochkofler
 Interest in Cloud-AWS, Kubernetes, Docker, Ansible, Terraform, Robotic for SysOps/DevOps
 
@@ -45,3 +46,9 @@ Interest in Cloud-AWS, Kubernetes, Docker, Ansible, Terraform, Robotic for SysOp
 ##
 
    
+=======
+# ITforever
+ Mini robot based in RaspBerry Pi CPU with 2 step Motors + Camera + Linux + Phyton). Funny interest in IA.
+ 
+https://github.com/hhochkofler/ITforever/tree/ITforever
+>>>>>>> main
